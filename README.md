@@ -30,6 +30,7 @@ Este projeto propõe o desenvolvimento de um sistema de transcrição fonética 
 - Sensibilidade limitada a **pontuações** (vírgulas, pontos) e **diferenças entre maiúsculas e minúsculas**.
 - Latência maior durante a inferência, típica de modelos baseados em **LSTM com atenção**.
 - Base de dados proveniente majoritariamente de uma única fonte.
+- Tem dificuldades com textos grandes (mais de 15 palavras). 
 
 ## 🚀 Trabalhos Futuros
 
